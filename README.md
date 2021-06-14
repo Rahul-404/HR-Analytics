@@ -4,7 +4,7 @@ HR-Analytics, Here is an opportunity to try predictive analytics in identifying 
 
 ## Dataset:
 
-This [dataset](https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/) is of Hackathon organized by Analytics Vidhya platform
+This [dataset](https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/) is from Hackathon organized by Analytics Vidhya platform
 
 ## Description:
 

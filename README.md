@@ -1,6 +1,8 @@
 # HR-Analytics
 
 HR-Analytics, Here is an opportunity to try predictive analytics in identifying the employees most likely to get promoted.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1ckdpw-I_b3VOUK93AFk2IFfA6b4nBtuq?usp=sharing)
+
 
 ## Dataset:
 
